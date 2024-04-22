@@ -1,10 +1,10 @@
 package main
 
 import (
-    "fmt"
-    "os"
-    "path/filepath"
-    "sort"
+  "fmt"
+  "os"
+  "path/filepath"
+  "sort"
 )
 
 type FileInfo struct {
